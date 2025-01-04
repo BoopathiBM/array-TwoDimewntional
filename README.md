@@ -1,1 +1,1 @@
-# array- 2 Dimewntional
+# array- 2 Dimentional
